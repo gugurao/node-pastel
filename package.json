@@ -1,0 +1,14 @@
+{
+  "name": "pastel",
+  "version": "0.0.1",
+  "description": "soft renderer",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx http-server -p 8001"
+  },
+  "author": "huangsongting",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
